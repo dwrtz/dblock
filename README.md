@@ -35,7 +35,7 @@ A productivity tool for blocking websites when you need to focus.
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/dblock.git
+    git clone https://github.com/dwrtz/dblock.git
     cd dblock
     ```
 
